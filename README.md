@@ -1,4 +1,4 @@
-# MATLAB-Projects
+# MATLAB-Visualization
 This repository includes some MATLAB programs with visualized gif or videos.
 
 包括了单摆和弹簧振子物理模型的MATLAB仿真，并通过gif或视频的形式将演变过程进行保存。
